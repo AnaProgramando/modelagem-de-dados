@@ -39,16 +39,19 @@ Nesse projeto abordo o estudo da Modelagem de dados, o processo de criação de 
 - [X] Representação da cardinalidade dos relacionamentos entre as entidades;
 - [X] Criação de modelo prático.
 
+❗ Obs: Baixe o <a href="https://www.sis4.com/brModelo/index.html" > brModelo </a> para visualizar os diagramas.
+
 Links dos Diagramas: 
-- <a href="_____" > Diagrama_Livraria_v001 </a>
-- <a href="_____" > Diagrama_Livraria_v002 </a>
-- <a href="_____" > Diagrama_Livraria_v003 </a>
-- <a href="_____" > Diagrama_Livraria_v004.1 </a>
-- <a href="_____" > Diagrama_Livraria_v004.2 </a>
-- <a href="_____" > Diagrama_Livraria_v005 </a>
-- <a href="_____" > Diagrama_Livraria_v006 </a>
-- <a href="_____" > Diagrama_Livraria_v007 </a>
-- <a href="_____" > Diagrama_Livraria_v008 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v001.brM3" > Diagrama_Livraria_v001 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v002.brM3" > Diagrama_Livraria_v002 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v003.brM3" > Diagrama_Livraria_v003.1 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v003a.brM3" > Diagrama_Livraria_v003.2 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v004.brM3" > Diagrama_Livraria_v004.1 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v004a.brM3" > Diagrama_Livraria_v004.2 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v005.brM3" > Diagrama_Livraria_v005 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v006.brM3" > Diagrama_Livraria_v006 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v007.brM3" > Diagrama_Livraria_v007 </a>
+- <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v008.brM3" > Diagrama_Livraria_v008 </a>
 
 
 ## ❓ Dúvidas
