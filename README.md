@@ -30,13 +30,16 @@ Nesse projeto abordo o estudo da Modelagem de dados, o processo de criação de 
 
 ## ✅ Features
 
-### Modelagem de banco de dados relacional - Entidades, relacionamentos e atributos
+### <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/d769dae822a469033a850bb4c94e2025447a9190/Entidades-relacionamentos-atributos/README.md" > Modelagem de banco de dados relacional - Entidades, relacionamentos e atributos </a>
 
 - [X] Construção de diagrama de entidade e relacionamentos;
 - [X] Modelagem do diagrama de entidade e relacionamentos;
 - [X] Compreensão de relacionamento, relacionamento de identificação, atributos, atributos chaves, atributos multivalorados, atributos compostos e atributos derivados;
 - [X] Representação da cardinalidade dos relacionamentos entre as entidades;
 - [X] Criação de modelo prático.
+
+Para acessar os Diagramas <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/d769dae822a469033a850bb4c94e2025447a9190/Entidades-relacionamentos-atributos/README.md" > clique aqui </a>
+
 
 ## ❓ Dúvidas
 
