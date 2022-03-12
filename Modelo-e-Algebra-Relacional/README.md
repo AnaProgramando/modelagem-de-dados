@@ -10,6 +10,7 @@
  <a href="https://github.com/AnaProgramando/modelagem-de-dados" > Home do Projeto </a> |
  <a href="#-welcome">Welcome</a> |
  <a href="#-features">Features</a> | 
+ <a href="#-fa%C3%A7a-voc%C3%AA-mesma-o">Faça você mesma (o)</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-autora">Autora</a>
@@ -29,12 +30,12 @@ Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender
 
 ## ✅ Features
 
-### Modelagem de banco de dados relacional - Entidades, relacionamentos e atributos
-
-- [X] ...
-
-❗ Obs: 
-
+- [X] Compreensão do modelo relacional, entendendo os domínios, atributos, relações, tuplas e chaves
+- [X] Realização das operações de Álgebra Relacional: Seleção, Projeção, União e Diferença
+- [X] Uso de Junção, Divisão e Produto cartesiano
+- [X] Instalação de software Relational
+- [X] Aplicação das operações de Álgebra Relacional utilizando o software Relational
+- [X] Execução dos desafios propostos
 
 ## ❓ Dúvidas
 
