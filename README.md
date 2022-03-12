@@ -46,11 +46,11 @@ Nesse projeto abordo o estudo da Modelagem de dados, o processo de criação de 
 	 - [X] Compreensão do modelo relacional, entendendo os domínios, atributos, relações, tuplas e chaves
 	 - [X] Realização das operações de Álgebra Relacional: Seleção, Projeção, União e Diferença
 	 - [X] Uso de Junção, Divisão e Produto cartesiano
-  - [X] Instalação de software Relational
+	 - [X] Instalação de software Relational
 	 - [X] Aplicação das operações de Álgebra Relacional utilizando o software Relational
 	 - [X] Execução dos desafios propostos
  
- 
+ ===
   
 - [ ] Modelagem de banco de dados relacional: diagrama ER e Modelo Relacional
 - [ ] Modelagem de banco de dados relacional: normalização
