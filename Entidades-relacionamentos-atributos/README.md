@@ -39,9 +39,71 @@ Nesse projeto abordo o estudo da Modelagem de dados, o processo de criação de 
 - [X] Representação da cardinalidade dos relacionamentos entre as entidades;
 - [X] Criação de modelo prático.
 
-❗ Obs: Baixe o <a href="https://www.sis4.com/brModelo/index.html" > brModelo </a> para visualizar os diagramas.
+## ⬇️ Instalar brModelo
 
-Links dos Diagramas: 
+1. Baixe e instale o <a href="https://www.java.com/pt-BR/download/" > Java </a>
+2. Baixe e instale o <a href="https://www.sis4.com/brModelo/download.html" > brModelo.jar </a>
+3. Crie uma pasta e cole dentro dela o arquivo baixado do brModelo
+4. Clique duas vezes no brModelo
+5. Selecione o Java(TM) Platform SE binary para executar o brModelo
+6. Pronto! Agora você já pode usar o brModelo
+
+## 📝 Faça você mesma (o)
+
+#### Diagrama_Livraria_v001
+1. No menu superior do brModelo clique em Diagrama
+2. Clique na opção Nova Entidade e adicione a sua tela para iniciar a criação do modelo
+3. Nas propriedades à esquerda, mude o valor de Nome para PEDIDO
+4. Crie mais quatro entidades e mude os seus valores de Nome para LIVRO, CLIENTE, EDITORA e ESTOQUE
+5. No menu superior, clique em Arquivo e depois em Salvar Como
+6. Salve em um diretório, como Diagrama_Livraria_v001
+
+#### Diagrama_Livraria_v002
+1. Crie mais uma entidade
+2. Deixe o Nome em branco
+3. Arraste o retângulo para que este fique em volta da entidade PEDIDO 
+_
+![image](https://user-images.githubusercontent.com/31097110/158001567-02e19758-eb43-4e0b-b20c-90e7264632ea.png)
+4. Repita esse processo com LIVRO e ESTOQUE
+5. Salve como Diagrama_Livraria_v002
+
+#### Diagrama_Livraria_v003
+1. No menu à direita, chamado Artefatos, clique no ícone de relacionamento (uma linha ligando em dois pontos, localizado acima do ícone de lata de tinta)_
+![image](https://user-images.githubusercontent.com/31097110/158001636-a59678b2-b164-40ba-b696-42526381518a.png)
+2. Com a tecla Ctrl pressionada, clique nas entidades CLIENTE e PEDIDO
+3. Nas propriedades à esquerda, mude o valor Nome para FAZ
+4. Agora, repita o processo e crie relacionamentos entre:
+   -   LIVRO e EDITORA (chamado PERTENCE)
+   -   ESTOQUE e LIVRO (chamado EXISTE)
+   -   PEDIDO e LIVRO (chamado CONTÉM)
+5. Salve como Diagrama_Livraria_v003
+
+#### Diagrama_Livraria_v004
+1. Clique na pequena bolinha ao lado da ponta do relacionamento com a entidade 
+![image](https://user-images.githubusercontent.com/31097110/158001475-b7e8411e-5015-45a0-be3b-f6dcfcd3f796.png)
+2. Arraste a bolinha para acima da entidade para posicionar as ligações da melhor forma visual possível
+3. Repita o procedimento com as outras entidades
+4. Clique sobre a cardinalidade de CLIENTE e mude o valor de Cardinalidade para (1,1)
+5. Clique sobre a cardinalidade de PEDIDO, no relacionamento com CLIENTE, e mude o valor de Cardinalidade para (1,N)
+6. Clique sobre a cardinalidade de LIVRO, no relacionamento com EDITORA, e mude o valor de Cardinalidade para (1,N)
+7. Clique sobre a cardinalidade de EDITORA e mude o valor de Cardinalidade para (1,1)
+8. Clique sobre a cardinalidade de ESTOQUE e mude o valor de Cardinalidade para (0,n)
+9. Clique sobre a cardinalidade de LIVRO, no relacionamento com ESTOQUE, e mude o valor de Cardinalidade para (1,1)
+10. Apague o relacionamento Contém
+11. No menu à direita, chamado Artefatos, clique no botão com ícone de losango dentro de um retângulo, para criar uma entidade associativa_
+![image](https://user-images.githubusercontent.com/31097110/158001724-bf67538a-ece4-41f7-9687-a11ef47920c5.png)
+12. Nas propriedades à esquerda, em Diagrama, mude o valor Nome para ITEM_PEDIDO
+13. Em em Relacionamento, mude o valor de Nome para CONTÉM
+14. Ligue PEDIDO com CONTÉM e CONTÉM com LIVRO
+15. Clique sobre a cardinalidade de PEDIDO, no relacionamento com LIVRO, e mude o valor de Cardinalidade para (1,N)
+16. Clique sobre a cardinalidade de LIVRO, no relacionamento com PEDIDO, e mude o valor de Cardinalidade para (1,N)
+17. Salve como Diagrama_Livraria_v004
+
+
+## ✔️ Diagramas prontos
+
+Faça o donwload dos diagramas prontos: 
+
 - <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v001.brM3" > Diagrama_Livraria_v001 </a>
 - <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v002.brM3" > Diagrama_Livraria_v002 </a>
 - <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/511bd290ed8d4c7667f37799d8787f4cf985bb6f/Entidades-relacionamentos-atributos/Diagrama_Livraria_v003.brM3" > Diagrama_Livraria_v003.1 </a>
