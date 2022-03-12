@@ -30,17 +30,35 @@ Nesse projeto abordo o estudo da Modelagem de dados, o processo de criação de 
 
 ## ✅ Features
 
-### <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/d769dae822a469033a850bb4c94e2025447a9190/Entidades-relacionamentos-atributos/README.md" > Modelagem de banco de dados relacional - Entidades, relacionamentos e atributos </a>
+- [X] <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/d769dae822a469033a850bb4c94e2025447a9190/Entidades-relacionamentos-atributos/README.md" > Modelagem de banco de dados relacional: entidades, relacionamentos e atributos: </a>
 
-- [X] Construção de diagrama de entidade e relacionamentos;
-- [X] Modelagem do diagrama de entidade e relacionamentos;
-- [X] Compreensão de relacionamento, relacionamento de identificação, atributos, atributos chaves, atributos multivalorados, atributos compostos e atributos derivados;
-- [X] Representação da cardinalidade dos relacionamentos entre as entidades;
-- [X] Criação de modelo prático.
+     - [X] Construção de diagrama de entidade e relacionamentos;
+     - [X] Modelagem do diagrama de entidade e relacionamentos;
+     - [X] Compreensão de relacionamento, relacionamento de identificação, atributos, atributos chaves, atributos multivalorados, atributos compostos e atributos derivados;
+     - [X] Representação da cardinalidade dos relacionamentos entre as entidades;
+     - [X] Criação de modelo prático.
 
-Para acessar os Diagramas <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/d769dae822a469033a850bb4c94e2025447a9190/Entidades-relacionamentos-atributos/README.md" > clique aqui </a>
+     Para acessar os Diagramas <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/d769dae822a469033a850bb4c94e2025447a9190/Entidades-relacionamentos-atributos/README.md" > clique aqui </a>
 
 
+
+- [X] <a href="https://github.com/AnaProgramando/modelagem-de-dados/blob/47dbc4b62432f79b1d68c68a6e791a93c9e6ca3b/Modelo-e-Algebra-Relacional/README.md" > Modelagem de banco de dados relacional: modelo e Álgebra Relacional </a> 
+	 - [X] Compreensão do modelo relacional, entendendo os domínios, atributos, relações, tuplas e chaves
+	 - [X] Realização das operações de Álgebra Relacional: Seleção, Projeção, União e Diferença
+	 - [X] Uso de Junção, Divisão e Produto cartesiano
+  - [X] Instalação de software Relational
+	 - [X] Aplicação das operações de Álgebra Relacional utilizando o software Relational
+	 - [X] Execução dos desafios propostos
+ 
+ 
+  
+- [ ] Modelagem de banco de dados relacional: diagrama ER e Modelo Relacional
+- [ ] Modelagem de banco de dados relacional: normalização
+- [ ] Modelagem de banco de dados relacional: entendendo SQL
+- [ ] Modelagem de banco de dados: começando com NoSQL
+
+ 
+ 
 ## ❓ Dúvidas
 
 Qualquer dúvida, interaja aqui:
