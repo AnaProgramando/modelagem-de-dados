@@ -10,6 +10,9 @@
  <a href="https://github.com/AnaProgramando/modelagem-de-dados" > Home do Projeto </a> |
  <a href="#-welcome">Welcome</a> |
  <a href="#-features">Features</a> | 
+ <a href="#%EF%B8%8F-brmodelo">brModelo</a> | 
+ <a href="#-fa%C3%A7a-voc%C3%AA-mesma-o">Faça você mesma (o)</a> | 
+ <a href="#%EF%B8%8F-diagramas-prontos">Diagramas prontos</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-autora">Autora</a>
@@ -39,7 +42,7 @@ Nesse projeto abordo o estudo da Modelagem de dados, o processo de criação de 
 - [X] Representação da cardinalidade dos relacionamentos entre as entidades;
 - [X] Criação de modelo prático.
 
-## ⬇️ Instalar brModelo
+## ⬇️ brModelo
 
 1. Baixe e instale o <a href="https://www.java.com/pt-BR/download/" > Java </a>
 2. Baixe e instale o <a href="https://www.sis4.com/brModelo/download.html" > brModelo.jar </a>
