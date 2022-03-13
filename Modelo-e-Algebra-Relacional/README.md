@@ -109,7 +109,7 @@ Joăo	| B	| Silva	    | 12345678966 | 09-01-1965 | Rua das Flores 751 Săo Paulo
 Fernando| T	| Wong	    | 33344555587 | 08-12-1955 | Rua da Lapa 34 Săo Paulo SP	    | M | 40000 | 88866555576	| 5
 Alice	| J	| Zelaya	| 99988777767 | 19-01-1968 | Rua Souza Lima 35 Curitiba PR	    | F | 25000 | 98765432168	| 4
 Jeniffer| S	| Souza	    | 98765432168 | 20-06-1941 | Av Arthur de Lima 54 Santo André	| F | 43000 | 88866555576	| 4
-Ronaldo	| K	| Lima	    | 66688444476 | 15-09-1962 | Rua Rebouças 65 Piracicaba SP	    | M | 38000 | 33344555587	| 5
+Ronaldo	| K	| Lima	    | 62388444476 | 15-09-1962 | Rua Rebouças 65 Piracicaba SP	    | M | 38000 | 33344555587	| 5
 Joice	| A	| Leite	    | 45345345376 | 31-07-1972 | Av. Lucas Obes 74 Săo Paulo SP	    | F | 25000 | 33344555587	| 5
 André	| V	| Pereira	| 98798798733 | 29-03-1969 | Rua Timbira 35 Săo Paulo SP	    | M | 25000 | 98765432168	| 4
 Jorge	| E	| Brito	    | 88866555576 | 10-11-1937 | Rua do Horto 35 Sáo Paulo SP	    | M | 55000 | 	            | 1
@@ -232,7 +232,23 @@ Para testar junção externa, inclua os comandos abaixo e veja os resultados:
 2. TEMP = funcionario ⧑ RESULTADO_DEPARTAMENTO
 3. RESULTADO_FINAL = π Primeiro_Nome, Ultimo_Nome, Nome_Departamento (TEMP)
 
+## 🎯 Desafios
 
+- Desafio 1 - Recupere os CPFs de todos os funcionários que trabalham no departamento 5 ou supervisionam diretamente um funcionário que trabalha neste departamento
+
+- Desafio 2 - ecuperar o nome e o endereço de todos os funcionários que trabalham no departamento Pesquisa
+
+- Desafio 3 - Pegar os  projetos que estão localizados na cidade de Mauá, listar o número do projeto, o número do departamento que controla aquele projeto, o último nome, o endereço e data de nascimento dos gerentes que gerenciam os departamentos que controlam os projetos da cidade de Mauá
+
+- Desafio 4 - Descobrir os nomes dos funcionários que trabalham em todos os projetos controlados pelo departamento número 5
+
+- Desafio 5 - Fazer uma lista dos números de projeto que envolvem um funcionário cujo último nome é Souza, seja ele trabalhador ou gerente do departamento que controla o projeto
+
+- Desafio 6 - Recuperar os nomes dos funcionários que não tem dependentes
+
+- Desafio 7 - Listar o nome dos gerentes que possuem pelo menos um dependente
+
+❗As respostas estão nos comentários 😉
 
 ## ❓ Dúvidas
 
