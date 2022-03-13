@@ -252,7 +252,7 @@ Para testar junção externa, inclua os comandos abaixo e veja os resultados:
 
 - Desafio 7 - Listar o nome dos gerentes que possuem pelo menos um dependente
 
-❗As respostas estão nos comentários 😉
+❗As respostas estão em <a href="https://github.com/AnaProgramando/modelagem-de-dados/discussions/1#discussion-3934235" > Discussions </a> 😉
 
 ## ❓ Dúvidas
 
