@@ -1,7 +1,5 @@
 # <img align="center" alt="Ana-Modelagem" height="40" src="https://github.com/AnaProgramando/modelagem-de-dados/blob/dece58aefaadbb4ef6863de565b986604a5f287e/database.png"> Modelagem de banco de dados relacional: Modelo e Álgebra Relacional
 
-----
-
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
 
 <p align="center"> O curso desse projeto está disponível na Plataforma da <a href="https://www.alura.com.br/" > Alura </a> </p>
@@ -36,6 +34,49 @@ Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender
 - [X] Instalação de software Relational
 - [X] Aplicação das operações de Álgebra Relacional utilizando o software Relational
 - [X] Execução dos desafios propostos
+
+## ⬇️ Instalação do Relational
+
+1. Baixe o <a href="https://ltworf.github.io/relational/index.html" > Relational </a> </p>
+2. Execute o SetupRelational.exe para realizar a instalação do Relational
+3. Pronto! Agora já pode usar.
+
+## ✏️ Criando as relações
+
+### Criando a Relação: teste
+
+1. Crie uma nova relação no Relational clicando no botão New
+2. Através dos botões Add Tuple (linha) e Add Column (coluna), inclua os dados da relação (inclusive o nome dos atributos), da tabela abaixo:
+
+Nome_Projeto | Numero_Projeto | Local_Projeto | Numero_Departamento
+------------ | ------------- | ------------- | -------------
+Produto X | 1 | Santo André | 5
+Produto Y | 2 | Itu | 5
+Produto Z| 3 | São Paulo | 5
+Informatização | 10 | Mauá | 4
+Reorganização | 20 | São Paulo | 1
+Novos Benefícios	 | 30 | Mauá | 4
+
+3. Clique em OK
+4. Inclua o nome da relação, que será "teste"
+5. Clique em OK
+
+### Criando a Relação: departamento
+
+1. Crie uma nova relação
+2. Inclua os dados da relação da tabela abaixo:
+
+Nome_Departamento | Numero_Departamento | Cpf_Gerente | Data_Inicio_Gerente
+------------ | ------------- | ------------- | -------------
+Pesquisa | 5 | 33344555587 | 22-05-1988
+Administraçăo | 4 | 98765432168 | 01-01-1995
+Matriz | 1 | 88866555576 | 19-06-1981
+
+3. Clique em OK
+4. Inclua o nome da relação, que será "departamento"
+5. Clique em OK
+
+
 
 ## ❓ Dúvidas
 
