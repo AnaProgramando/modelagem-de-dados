@@ -190,6 +190,49 @@ Cpf_Funcionario	 | 	Numero_Projeto	 | 	Horas
 5. Clique em OK
 
 
+## 📝 Faça você mesma (o)
+
+### Seleção
+
+Para testar a seleção, digite os seguintes comandos abaixo e veja o resultado:
+1. teste
+2. RESULTADO=teste
+3. RESULTADO2=σ Local_Projeto == 'Mauá' (teste)
+4. RESULTADO3=σ Numero_Projeto == 10 and Numero_Departamento == 4 (teste)
+
+### Projeção
+
+Para testar a projeção, inclua os comandos abaixo e veja os resultados:
+
+1. RESULTADO5 = π Nome_Projeto, Numero_Projeto (projeto)
+2. RESULTADO6 = π Nome_Projeto, Numero_Projeto (RESULTADO3)
+3. RESULTADO7 = π Nome_Projeto, Numero_Projeto (σ Numero_Projeto == 10 and Numero_Departamento == 4 (projeto))
+
+### Produto cartesiano
+
+Para testar a produto cartesiano, inclua os comandos abaixo e veja os resultados:
+
+1. FUNC_MULHERES = σ Sexo == 'F' (funcionario)
+2. FUNC_NOMES = π Primeiro_Nome, Ultimo_Nome, Cpf (FUNC_MULHERES)
+3. FUNC_DEPENDENTES = FUNC_NOMES * dependente
+4. DEPENDENTE_PARTICULAR = σ Cpf == Cpf_Funcionario (FUNC_DEPENDENTES)
+
+### Junção
+
+Para testar junção, inclua os comandos abaixo e veja os resultados:
+
+1. RESULTADO_DEPARTAMENTO = ρ Cpf_Gerente ➡ Cpf (departamento)
+2. RESULTADO = RESULTADO_DEPARTAMENTO ⋈ funcionario
+
+### Junção externa
+
+Para testar junção externa, inclua os comandos abaixo e veja os resultados:
+
+1.  RESULTADO_DEPARTAMENTO = ρ Cpf_Gerente ➡ Cpf (departamento)
+2. TEMP = funcionario ⧑ RESULTADO_DEPARTAMENTO
+3. RESULTADO_FINAL = π Primeiro_Nome, Ultimo_Nome, Nome_Departamento (TEMP)
+
+
 
 ## ❓ Dúvidas
 
