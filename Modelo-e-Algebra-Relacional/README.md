@@ -8,6 +8,10 @@
  <a href="https://github.com/AnaProgramando/modelagem-de-dados" > Home do Projeto </a> |
  <a href="#-welcome">Welcome</a> |
  <a href="#-features">Features</a> | 
+ <a href="#%EF%B8%8F-instala%C3%A7%C3%A3o-do-relational">Instalação do Relational</a> | 
+ <a href="#%EF%B8%8F-criando-as-rela%C3%A7%C3%B5es">Criando as relações</a> | 
+  <a href="#-fa%C3%A7a-voc%C3%AA-mesma-o">Faça você mesma (o)</a> | 
+  <a href="#-desafios">Desafios</a> | 
  <a href="#-fa%C3%A7a-voc%C3%AA-mesma-o">Faça você mesma (o)</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
